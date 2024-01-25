@@ -6,7 +6,7 @@
 
 	<form action="index.php">
 
-		<input type="hidden" name="controlador" value="equipo">
+		<input type="hidden" name="controlador" value="Equipo">
 		<input type="hidden" name="accion" value="nuevo">
 
 		<?php echo isset($errores["item"]) ? "*" : "" ?>
