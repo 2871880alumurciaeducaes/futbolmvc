@@ -5,7 +5,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="index.php?controlador=Liga&accion=clasificacion">Clasificacion</a></li>
                 <li><a href="index.php?controlador=Jornada&accion=listarAll">Jornadas</a></li>
-                <li><a href="index.php?controlador=Equipo&accion=listar">Equipos</a></li>
+                <li><a href="index.php?controlador=Equipo&accion=listar">Equipos - corregido</a></li>
             </ul>
         </div>
     </div>

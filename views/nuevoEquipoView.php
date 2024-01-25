@@ -16,7 +16,7 @@
 		<input type="submit" name="submit" value="Aceptar">
 	</form>
 	<form action="index.php">
-		<input type="hidden" name="controlador" value="equipo">
+		<input type="hidden" name="controlador" value="Equipo">
 		<input type="hidden" name="accion" value="listar">
 		<input type="submit" name="cancel" value="Cancelar">
 	</form>
